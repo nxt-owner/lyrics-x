@@ -1,0 +1,28 @@
+{
+  "name": "lyrics-x",
+  "version": "1.0.3",
+  "description": "A simple yet most powerful scraper to get lyrics and thumbnail og any song from Genius Lyrics",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nxt-owner/lyrics-x"
+  },
+  "homepage": "https://github.com/nxt-owner/lyrics-x#readme",
+  "keywords": [
+    "scraper",
+    "lyrics-scraper",
+    "genius-lyrics-scraper",
+    "genius-lyrics",
+    "genius-scraper"
+  ],
+  "author": "nxt-owner",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "axios": "^1.3.4",
+    "request": "^2.88.2"
+  }
+}
