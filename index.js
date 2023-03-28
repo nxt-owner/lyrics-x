@@ -13,7 +13,7 @@ async function getThumbnail(query) {
 
   if (thumbnailUrl == undefined || thumbnailUrl == null) {
     thumbnailUrl =
-      "https://t2.genius.com/unsafe/409x409/https%3A%2F%2Fimages.genius.com%2F08c6cf3234ccbad210617ba252eee193.999x999x1.png";
+      "https://telegra.ph/file/35bda7ae74dfd4095fc62.png";
   }
   return thumbnailUrl;
 }

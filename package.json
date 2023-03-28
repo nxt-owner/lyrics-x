@@ -1,6 +1,6 @@
 {
   "name": "lyrics-x",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A simple yet most powerful scraper to get lyrics and thumbnail og any song from Genius Lyrics",
   "main": "index.js",
   "scripts": {
